@@ -25,7 +25,7 @@
 ![discord](https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white)
 ![intellijidea](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=white)
-![kakaotalk](https://img.shields.io/badge/KakaoTalk-FFCD00.svg?&style=for-the-badge&logo=kakaotalk&logoColor=white)
+![kakaotalk](https://img.shields.io/badge/KakaoTalk-F7E600.svg?&style=for-the-badge&logo=kakaotalk&logoColor=black)
 
 
 

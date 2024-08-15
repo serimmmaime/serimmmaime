@@ -1,5 +1,17 @@
 ### serimmmaime
 
+HI THERE!
+I started to learn Programming since Feb 20, 2024.
+I began learing in NaverCloud DevOps 10th and
+now I'm studying in SSAFY 12th which is kinda Samsung SW Academy(we call it Bootcamp).
+
+Mainly I use Java and I want to be a Developer in the Bank or Securities(sth financial).
+I studied Economics before, from 2019 to 2024 in Chung-Ang Univ, Séoul, South Korea and Université Grenoble-Alpes, Grenoble, France.
+So I speak Korean, English and French a bit.
+I'm happy that you read my ReadMe so far and hope you enjoy my github.
+
+
+My first Project on April 2024
 ## JavaGym
 ### Platforms & Languages
 
@@ -66,11 +78,11 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning ... Java and Algorithms
+- 👯 I’m looking to collaborate on ... FE
+- 🤔 I’m looking for help with ... Everyone who wants to help me
+- 💬 Ask me about ... feel free to contact me via i.g(@serimmmaime)!
+- 📫 How to reach me: ... yesellya@gmail.com it's my principal e-mail address
+- 😄 Pronouns: ... She/her or CatSister(My cat is Yetty(Male, 2020) and he call me sis... so I am Yetty's sister.
+- ⚡ Fun fact: ... I love communicating directly. I love direct phrases. 
+--> 

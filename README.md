@@ -83,8 +83,8 @@ My first Project on April 2024
 ![Lombok](https://img.shields.io/badge/Lombok-DA2128.svg?&style=for-the-badge&logo=lombok&logoColor=white)
 ![springboot](https://img.shields.io/badge/springboot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white)
 ![springsecurity](https://img.shields.io/badge/springsecurity-6DB33F.svg?&style=for-the-badge&logo=springsecurity&logoColor=white)
-![openapiinitiative](https://img.shields.io/badge/openapi-6BA539.svg?&style=for-the-badge&logo=openapiinitiative&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/thymeleaf-005F0F.svg?&style=for-the-badge&logo=thymeleaf&logoColor=white)
+![openapiinitiative](https://img.shields.io/badge/openapi-6BA539.svg?&style=for-the-badge&logo=&logoColor=white)
+
 
 ### DB
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)

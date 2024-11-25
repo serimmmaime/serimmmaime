@@ -69,6 +69,42 @@ My first Project on April 2024
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
+-------
+### Front
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white)
+![VueRouter](https://img.shields.io/badge/VueRouter-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white)
+![tailwindcss](https://img.shields.io/badge/TailwindCss-06B6D4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white)
+![pinia](https://img.shields.io/badge/Pinia-fce464.svg?&style=for-the-badge&logo=pinia&logoColor=white)
+![vite](https://img.shields.io/badge/vite-646CFF.svg?&style=for-the-badge&logo=vite&logoColor=white)
+![axios](https://img.shields.io/badge/axios-5A29E4.svg?&style=for-the-badge&logo=axios&logoColor=white)
+
+### Back
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![Lombok](https://img.shields.io/badge/Lombok-DA2128.svg?&style=for-the-badge&logo=lombok&logoColor=white)
+![springboot](https://img.shields.io/badge/springboot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white)
+![springsecurity](https://img.shields.io/badge/springsecurity-6DB33F.svg?&style=for-the-badge&logo=springsecurity&logoColor=white)
+![openapiinitiative](https://img.shields.io/badge/openapi-6BA539.svg?&style=for-the-badge&logo=openapiinitiative&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/thymeleaf-005F0F.svg?&style=for-the-badge&logo=thymeleaf&logoColor=white)
+
+### DB
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
+![HikariCP](https://img.shields.io/badge/HikariCP-FFFFFF.svg?&style=for-the-badge&logo=Java&logoColor=black)
+![MyBatis](https://img.shields.io/badge/MyBatis-d40201.svg?&style=for-the-badge&logo=&logoColor=white)
+
+
+### Tools
+![apachemaven](https://img.shields.io/badge/apachemaven-C71A36.svg?&style=for-the-badge&logo=apachemaven&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837.svg?&style=for-the-badge&logo=npm&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
+![Github](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)
+![intellijidea](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=white)
+
+
+
+
+
+
 <!--
 **serimmmaime/serimmmaime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

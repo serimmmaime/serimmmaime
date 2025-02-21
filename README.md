@@ -3,12 +3,7 @@
 HI THERE!
 I started to learn Programming since Feb 20, 2024.
 I began learing in NaverCloud DevOps 10th and
-now I'm studying in SSAFY 12th which is kinda Samsung SW Academy(we call it Bootcamp).
-
-Mainly I use Java and I want to be a Developer in the Bank or Securities(sth financial).
-I studied Economics before, from 2019 to 2024 in Chung-Ang Univ, Séoul, South Korea and Université Grenoble-Alpes, Grenoble, France.
-So I speak Korean, English and French a bit.
-I'm happy that you read my ReadMe so far and hope you enjoy my github.
+now I'm studying in SSAFY 12th which is kinda Samsung SW Academy(we call it Bootcamp)
 
 
 My first Project on April 2024

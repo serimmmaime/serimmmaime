@@ -3,7 +3,7 @@
 HI THERE!
 I started to learn Programming since Feb 20, 2024.
 I began learing in NaverCloud DevOps 10th and
-now I'm studying in SSAFY 12th which is kinda Samsung SW Academy(we call it Bootcamp)
+now I'm studying in SSAFY-Samsung SW Academy
 
 
 My first Project on April 2024

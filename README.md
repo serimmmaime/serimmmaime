@@ -6,41 +6,6 @@ I began learing in NaverCloud DevOps 10th and
 now I'm studying in SSAFY-Samsung SW Academy
 
 
-My first Project on April 2024
-## JavaGym
-### Platforms & Languages
-
-### Front
-![JavaFX](https://img.shields.io/badge/JavaFX-FFA500.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
-![Scenebuilder](https://img.shields.io/badge/SceneBuiler-F0AD4E.svg?&style=for-the-badge&logo=scenebuilder&logoColor=white)
-
-### Back
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
-![Lombok](https://img.shields.io/badge/Lombok-DA2128.svg?&style=for-the-badge&logo=lombok&logoColor=white)
-![coolSMS](https://img.shields.io/badge/coolSMS-34DA50.svg?&style=for-the-badge&logo=imessage&logoColor=white)
-![jbcrypt](https://img.shields.io/badge/jbcrypt-FE5F50.svg?&style=for-the-badge&logo=letsencrypt&logoColor=white)
-
-
-### DB
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
-![HikariCP](https://img.shields.io/badge/HikariCP-FFFFFF.svg?&style=for-the-badge&logo=Java&logoColor=black)
-
-### Tools
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?&style=for-the-badge&logo=Gradle&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
-![Github](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)
-![discord](https://img.shields.io/badge/Discord-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white)
-![intellijidea](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=white)
-![kakaotalk](https://img.shields.io/badge/KakaoTalk-F7E600.svg?&style=for-the-badge&logo=kakaotalk&logoColor=black)
-
-
-
-
-
-
-
 # 💪Skills
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)

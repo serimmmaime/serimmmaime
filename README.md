@@ -1,9 +1,6 @@
 ### serimmmaime
 
-HI THERE!
-I started to learn Programming since Feb 20, 2024.
-I began learing in NaverCloud DevOps 10th and
-now I'm studying in SSAFY-Samsung SW Academy
+[Portfolio](https://silver-second-7be.notion.site/1ba1b7983044801fa5d4e5049d6d623c?pvs=4)
 
 
 # 💪Skills

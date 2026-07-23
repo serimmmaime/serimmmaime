@@ -1,7 +1,7 @@
 ### serimmmaime
 
-[Portfolio](https://silver-second-7be.notion.site/1ba1b7983044801fa5d4e5049d6d623c?pvs=4)
-[IT Planner Portfolio](https://canva.link/8vigqn8lsi5c12t)
+[Developer Portfolio](https://silver-second-7be.notion.site/1ba1b7983044801fa5d4e5049d6d623c?pvs=4)
+ | [IT Planner Portfolio](https://canva.link/8vigqn8lsi5c12t)
 
 
 # 💪Skills
